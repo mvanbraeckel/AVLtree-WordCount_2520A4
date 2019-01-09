@@ -1,4 +1,7 @@
-CIS*2520: Data Structures - Assignment #4
+# AVLtree-WordCount_2520A4
+Data Structures course A4 - reads a file and constructs an AVL tree that counts how many times each word appears, and can further manipulate the AVL tree after this
+
+(Data Structures course Assignment #4)
 
 NOTE: assumed submission should be in a ".tar" file like the other assignment submissions
 
